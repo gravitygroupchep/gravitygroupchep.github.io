@@ -12,7 +12,7 @@ twitter:
 
 <i class="fa fa-envelope-o"></i> `gnarain@iisc.ac.in`
 
-[My Publications](https://inspirehep.net/authors/1033768?ui-citation-summary=true)
+<u>[My Publications](https://inspirehep.net/authors/1033768?ui-citation-summary=true)</u>
 
 **Office**<br>
 B2-09 ,CHEP <br>
