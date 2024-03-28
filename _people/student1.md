@@ -12,9 +12,6 @@ joined: 2022
 
 <i class="fa fa-envelope-o"></i>`shubhashism@iisc.ac.in`<br>
 
-<u>[My Publications](https://inspirehep.net/authors/1039330)</u>
-
-
 <hr>
 
 ### Bio
