@@ -12,7 +12,9 @@ joined: 2021
 
 <i class="fa fa-envelope-o"></i>  `manishankara@iisc.ac.in`<br>
 
-<u>[My Publications](https://inspirehep.net/authors/2684608)</u>
+
+<!--- [My Publications](https://inspirehep.net/authors/2684608)
+ --->
 
 
 <hr>
