@@ -10,6 +10,3 @@ Manishankar Ailiga,Shubhashis Mallik, Gaurav Narain<br>
  JHEP 01 (2024) 124 ([Article](https://inspirehep.net/literature/2684604))
 
 
-
-
-### 2022
